@@ -6,6 +6,9 @@ Beautiful Soup is a Python package for parsing HTML and XML documents. It create
 
 For people who work with data it is important to be able to create own datasets. Often we rely on datasets from someone else. This course should show all data enthusiasts how to scrape and store data in Excel Files.
 
+Points Covered in this project
+==============================
+
 Web Scraping
 
 Beautiful Soup
