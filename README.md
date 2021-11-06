@@ -31,3 +31,8 @@ What I have learaned
 -beautiful soup
 
 -requests library
+
+NOTE
+=====
+
+I have extracted the data for top 10 pages only, as the data set was containing more that 41000 pages due to which it was taking around 4-5 hours to load the dataset in jupyter notebooks.
